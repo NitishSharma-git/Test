@@ -37,10 +37,11 @@ const styles = StyleSheet.create({
   description:{
     color:"#6495ed"
   },
-  category:{ 
+  category:{
+    color:'hotpink' 
   },
   url:{
-    color:'darkgrey'
+    color:'grey'
   }
 });
 
